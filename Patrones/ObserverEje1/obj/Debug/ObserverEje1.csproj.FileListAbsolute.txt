@@ -1,0 +1,6 @@
+C:\BOT-Cursos\Patrones\ObserverEje1\bin\Debug\ObserverEje1.exe.config
+C:\BOT-Cursos\Patrones\ObserverEje1\bin\Debug\ObserverEje1.exe
+C:\BOT-Cursos\Patrones\ObserverEje1\bin\Debug\ObserverEje1.pdb
+C:\BOT-Cursos\Patrones\ObserverEje1\obj\Debug\ObserverEje1.csprojAssemblyReference.cache
+C:\BOT-Cursos\Patrones\ObserverEje1\obj\Debug\ObserverEje1.exe
+C:\BOT-Cursos\Patrones\ObserverEje1\obj\Debug\ObserverEje1.pdb

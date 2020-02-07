@@ -1,0 +1,6 @@
+C:\BOT-Cursos\Patrones\Patrones\bin\Debug\Patrones.exe.config
+C:\BOT-Cursos\Patrones\Patrones\bin\Debug\Patrones.exe
+C:\BOT-Cursos\Patrones\Patrones\bin\Debug\Patrones.pdb
+C:\BOT-Cursos\Patrones\Patrones\obj\Debug\FactoryMethod.csprojAssemblyReference.cache
+C:\BOT-Cursos\Patrones\Patrones\obj\Debug\Patrones.exe
+C:\BOT-Cursos\Patrones\Patrones\obj\Debug\Patrones.pdb
