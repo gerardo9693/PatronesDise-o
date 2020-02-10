@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{CF9B39C5-1C1C-4354-A4AE-26604A4B3544}</ProjectGuid>
+    <ProjectGuid>{C4D67E39-C60D-4B8B-97A5-02BE91781F63}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>ObserverEje1</RootNamespace>
-    <AssemblyName>ObserverEje1</AssemblyName>
+    <RootNamespace>Strategy</RootNamespace>
+    <AssemblyName>Strategy</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,26 +43,17 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Business\Compilar.cs" />
-    <Compile Include="Business\Consola.cs" />
-    <Compile Include="Business\CorreoElectroncio.cs" />
-    <Compile Include="Business\InstalarVersion.cs" />
-    <Compile Include="Business\Publicador.cs" />
-    <Compile Include="Business\SubirCodigo.cs" />
-    <Compile Include="Business\UnitTest1.cs" />
-    <Compile Include="Interfaces\IObservador.cs" />
-    <Compile Include="Interfaces\IPublicador.cs" />
+    <Compile Include="Business\GIFImage.cs" />
+    <Compile Include="Business\JPGImage.cs" />
+    <Compile Include="Business\PNGImage.cs" />
+    <Compile Include="Business\Repository.cs" />
+    <Compile Include="Interfaces\ISaveImage.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
-  <ItemGroup>
-    <ProjectReference Include="..\Strategy\Strategy.csproj">
-      <Project>{C4D67E39-C60D-4B8B-97A5-02BE91781F63}</Project>
-      <Name>Strategy</Name>
-    </ProjectReference>
-  </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

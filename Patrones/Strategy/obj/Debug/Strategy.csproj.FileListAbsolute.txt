@@ -1,0 +1,6 @@
+C:\BOT-Cursos\PatronesDise-o\Patrones\Strategy\obj\Debug\Strategy.csprojAssemblyReference.cache
+C:\BOT-Cursos\PatronesDise-o\Patrones\Strategy\bin\Debug\Strategy.exe.config
+C:\BOT-Cursos\PatronesDise-o\Patrones\Strategy\bin\Debug\Strategy.exe
+C:\BOT-Cursos\PatronesDise-o\Patrones\Strategy\bin\Debug\Strategy.pdb
+C:\BOT-Cursos\PatronesDise-o\Patrones\Strategy\obj\Debug\Strategy.exe
+C:\BOT-Cursos\PatronesDise-o\Patrones\Strategy\obj\Debug\Strategy.pdb

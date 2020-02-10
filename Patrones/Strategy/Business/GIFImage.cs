@@ -1,0 +1,12 @@
+﻿using Strategy.Interfaces;
+
+namespace Strategy.Business
+{
+    public class GIFImage : ISaveImage
+    {
+        public string SaveImg(string name)
+        {
+            return $"{name} con el formato .GIF";
+        }
+    }
+}
